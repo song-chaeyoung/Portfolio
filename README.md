@@ -27,4 +27,6 @@
 >   <<Link>>
 >
 > 기획단계 <br/>
-> <a href="https://developefeel.tistory.com/4">Lo-fi</a>  <br/>
+> <a href="">Lo-fi</a>  <br/>
+> <a href="">Hi-fi</a>  <br/>
+> <a href="">기획서</a>  <br/>
