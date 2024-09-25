@@ -14,8 +14,25 @@
 <br/>
 
 # 🛠️Skills
+### Javascript
+- lorem
+- lorem
+- lorem
 
-### <img src=""> Javascript
+<br/>
+
+### React
+- lorem
+- lorem
+- lorem
+
+<br/>
+
+### HTML & CSS
+- lorem
+- lorem
+- lorem
+
 
 
 <br/>
