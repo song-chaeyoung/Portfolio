@@ -20,11 +20,11 @@
 
 <br/>
 
-## 1. Oliveyoung UI/UX 개선 및 웹페이지 구현
+## 1. Oliveyoung UI/UX 개선 및 웹페이지 구현 (Team Project)
 >  <a href="">올리브영</a> <br/>
 > 올리브영 웹사이트 UI/UX 개선 기획 및 실제 웹페이지 구현 
 > - 개발기간 : 2024.07.00 ~ 2024.09.06
-> - 핵심역할 : 프로젝트 PM, 전체적인 일정관리
+> - 역할 : 프로젝트 PM, 전체적인 일정관리
 >
 > Front-End (Develop)
 > - Language : Javascirpt, HTML, CSS
@@ -38,7 +38,19 @@
 >
 > <br/>
 
-## 2. Oliveyoung UI/UX 개선 및 웹페이지 구현
+## 2. Todo List (Personal Project)
+>  <a href="">Todo List</a> <br/>
+> 로컬스토리지 및 
+> - 개발기간 : 2024.09.00 ~ 2024.09.00
+> - 역할 : 
+>
+> Front-End (Develop)
+> - Language : Javascirpt, HTML, CSS
+> - Skill : 
+>  <br/>
+>
+>
+> <br/>
 
 
 
