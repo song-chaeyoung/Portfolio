@@ -19,20 +19,15 @@
 - lorem
 - lorem
 
-<br/>
-
 ### React
 - lorem
 - lorem
 - lorem
 
-<br/>
-
 ### HTML & CSS
 - lorem
 - lorem
 - lorem
-
 
 
 <br/>
