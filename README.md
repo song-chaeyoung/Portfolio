@@ -99,7 +99,7 @@
 <br/>
 
 # 📞Contact
-- 이메일 :
+- 이메일 : call0512@naver.com
 - 블로그 : <a href="https://velog.io/@scy512/posts">https://velog.io/@scy512/posts</a>
 - 깃허브 : <a href="https://github.com/song-chaeyoung">https://github.com/song-chaeyoung</a>
 
