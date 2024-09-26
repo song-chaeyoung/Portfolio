@@ -100,5 +100,5 @@
 
 # 📞Contact
 - 이메일 :
-- 블로그 :
-- 깃허브 :
+- 블로그 : <a href="https://velog.io/@scy512/posts">https://velog.io/@scy512/posts</a>
+- 깃허브 : 
