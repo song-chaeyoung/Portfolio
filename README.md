@@ -71,7 +71,7 @@
 >
 > <br/>
 
-## 2. Introduce Page (Personal Project)
+## 3. Introduce Page (Personal Project)
 >  <a href="">Introduce Page</a> <br/>
 > 로컬스토리지 및 
 > - 개발기간 : 2024.09.00 ~ 2024.09.00
@@ -81,6 +81,10 @@
 > - Language : Javascirpt, HTML, CSS
 > - Skill : 
 >  <br/>
+>
+> 기획단계 <br/>
+> <a href="">Lo-fi</a> 
+> <a href="">Hi-fi</a> 
 >
 >
 > <br/>
