@@ -24,7 +24,7 @@
 - lorem
 - lorem
 
-### HTML & CSS
+### HTML & CSS
 - lorem
 - lorem
 - lorem
@@ -59,6 +59,20 @@
 
 ## 2. Todo List (Personal Project)
 >  <a href="">Todo List</a> <br/>
+> 로컬스토리지 및 
+> - 개발기간 : 2024.09.00 ~ 2024.09.00
+> - 역할 : 
+>
+> Front-End (Develop)
+> - Language : Javascirpt, HTML, CSS
+> - Skill : 
+>  <br/>
+>
+>
+> <br/>
+
+## 2. Introduce Page (Personal Project)
+>  <a href="">Introduce Page</a> <br/>
 > 로컬스토리지 및 
 > - 개발기간 : 2024.09.00 ~ 2024.09.00
 > - 역할 : 
