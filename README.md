@@ -62,11 +62,11 @@
 
 ## 2. Todo List (Personal Project)
 > 로컬스토리지 및 
-> - 개발기간 : 2024.09.00 ~ 2024.09.00
+> - 개발기간 : 2024.09.17 ~ 2024.10.01
 > - 역할 : 
 >
 > Front-End (Develop)
-> - Language : Javascirpt, HTML, CSS
+> - Language : React, JSX
 > - Skill : 
 >  <br/>
 >
