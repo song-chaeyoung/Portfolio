@@ -77,7 +77,6 @@
 > <br/>
 
 ## 3. Introduce Page (Personal Project)
->  <a href="">Introduce Page</a> <br/>
 > 로컬스토리지 및 
 > - 개발기간 : 2024.09.00 ~ 2024.09.00
 > - 역할 : 
