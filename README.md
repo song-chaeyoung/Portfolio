@@ -50,8 +50,8 @@
 > - Skill : 
 >  <br/>
 >
-> 홈페이지 : <a href="">홈페이지</a> <br/>
-> 깃허브 : <a href="">깃허브</a> <br/>
+> <a href="">홈페이지</a> <br/>
+><a href="">깃허브</a> <br/>
 >
 > 기획단계 <br/>
 > <a href="">Lo-fi</a> 
@@ -70,8 +70,8 @@
 > - Skill : 
 >  <br/>
 >
-> 홈페이지 : <a href="">홈페이지</a> <br/>
-> 깃허브 : <a href="">깃허브</a> <br/>
+> <a href="https://mbtitest-cy.web.app/">홈페이지</a> <br/>
+> <a href="">깃허브</a> <br/>
 >
 >
 > <br/>
@@ -86,6 +86,9 @@
 > - Language : Javascirpt, HTML, CSS
 > - Skill : 
 >  <br/>
+>
+> <a href="https://i-am-young.web.app/">홈페이지</a> <br/>
+> <a href="">깃허브</a> <br/>
 >
 > 기획단계 <br/>
 > <a href="">Lo-fi</a> 
