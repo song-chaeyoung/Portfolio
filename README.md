@@ -50,7 +50,7 @@
 > - Skill : 반응형 디자인, 사용자 피드백을 반영한 UI 개선, Vanilla JS로 동적 웹 페이지 구현
 >  <br/>
 >
-> <a href="">홈페이지</a> <br/>
+> <a href="">홈페이지</a>  
 ><a href="">깃허브</a> <br/>
 >
 > 기획단계 <br/>
@@ -71,7 +71,7 @@
 > - Skill : 상태 관리, 로컬 스토리지 사용, 컴포넌트 재사용성 극대화
 >  <br/>
 >
-> <a href="https://mbtitest-cy.web.app/">홈페이지</a> <br/>
+> <a href="https://mbtitest-cy.web.app/">홈페이지</a>  
 > <a href="https://github.com/song-chaeyoung/FrontEnd-Class/tree/main/custom%20project/08.todolist">깃허브</a> <br/>
 >
 >
@@ -87,7 +87,7 @@
 > - Skill : 바닐라 자바스크립트로 모달 구현
 >  <br/>
 >
-> <a href="https://i-am-young.web.app/">홈페이지</a> <br/>
+> <a href="https://i-am-young.web.app/">홈페이지</a>  
 > <a href="https://github.com/song-chaeyoung/FrontEnd-Class/tree/main/firstproject_final">깃허브</a> <br/>
 >
 > 기획단계 <br/>
