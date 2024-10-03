@@ -78,7 +78,7 @@
 > <br/>
 
 ## 3. Introduce Page (Personal Project)
-> 
+> 
 > - 개발기간 : 2024.06.21 ~ 2024.07.12
 > - 역할 : 프론트엔드 개발, 사이트 전반적인 UI/UX 설계 및 구현
 >
@@ -88,7 +88,7 @@
 >  <br/>
 >
 > <a href="https://i-am-young.web.app/">홈페이지</a> <br/>
-> <a href="">깃허브</a> <br/>
+> <a href="https://github.com/song-chaeyoung/FrontEnd-Class/tree/main/firstproject_final">깃허브</a> <br/>
 >
 > 기획단계 <br/>
 > <a href="">Lo-fi</a> 
