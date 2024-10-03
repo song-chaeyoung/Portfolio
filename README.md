@@ -71,8 +71,8 @@
 > - Skill : 상태 관리, 로컬 스토리지 사용, 컴포넌트 재사용성 극대화
 >  <br/>
 >
-> <a href="https://mbtitest-cy.web.app/" target="_blank">홈페이지</a>  
-> <a href="https://github.com/song-chaeyoung/FrontEnd-Class/tree/main/custom%20project/08.todolist" target="_blank">깃허브</a> <br/>
+> <a href="https://mbtitest-cy.web.app/" target="_blank" >홈페이지</a>  
+> <a href="https://github.com/song-chaeyoung/FrontEnd-Class/tree/main/custom%20project/08.todolist" target="_blank" >깃허브</a> <br/>
 >
 >
 > <br/>
