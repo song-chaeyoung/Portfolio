@@ -21,7 +21,7 @@
 
 ### React
 - React Hooks (useState, useEffect) 활용한 상태 및 생명주기 관리
-- React Rounter Dom을 사용한 페이지 라우팅 관리
+- React Router Dom을 사용한 페이지 라우팅 관리
 
 ### HTML & CSS
 - Flex와 Grid를 활용한 반응형 레이아웃 구현
