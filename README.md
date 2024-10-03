@@ -45,8 +45,8 @@
 > - 역할 : 프로젝트 PM, 전체적인 일정관리, 메인 페이지 구현, 데이터를 활용한 장바구니 및 결제 페이지 구현, Common(Header,Sidebar etc...) 요소 구현
 >
 > Front-End (Develop)
-> - Language : Javascirpt, HTML, CSS
-> - Skill : 반응형 디자인, 사용자 피드백을 반영한 UI 개선, Vanilla JS로 동적 웹 페이지 구현
+> - Skill : Javascirpt, HTML, CSS
+> - 구현 내용 : 반응형 디자인, 사용자 피드백을 반영한 UI 개선, Vanilla JS로 동적 웹 페이지 구현
 >  <br/>
 >
 > <a href="https://oliveyoung-yesshow.web.app/" >홈페이지</a>  
@@ -63,8 +63,8 @@
 > - 역할 : 프론트엔드 개발 및 UI 디자인
 >
 > Front-End (Develop)
-> - Language : React, JSX
-> - Skill : 상태 관리, 로컬 스토리지 사용, 컴포넌트 재사용성 극대화
+> - Skill : React, JSX
+> - 구현내용 : 상태 관리, 로컬 스토리지 사용, 컴포넌트 재사용성 극대화
 >  <br/>
 >
 > <a href="https://mbtitest-cy.web.app/" target="_blank" >홈페이지</a>  
@@ -77,8 +77,8 @@
 > - 역할 : 프론트엔드 개발, 사이트 전반적인 UI/UX 설계 및 구현
 >
 > Front-End (Develop)
-> - Language : Javascirpt, HTML, CSS
-> - Skill : 바닐라 자바스크립트로 모달 구현
+> - Skill : Javascirpt, HTML, CSS
+> - 구현내용 : 바닐라 자바스크립트로 모달 구현
 >  <br/>
 >
 > <a href="https://i-am-young.web.app/" target="_blank">홈페이지</a>  
