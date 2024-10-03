@@ -51,7 +51,7 @@
 >  <br/>
 >
 > <a href="" target="_blank" >홈페이지</a>  
-><a href="" target="_blank">깃허브</a> <br/>
+><a href="https://oliveyoung-yesshow.web.app/" target="_blank">깃허브</a> <br/>
 >
 > 기획단계 <br/>
 > <a href="" target="_blank">Lo-fi</a> 
