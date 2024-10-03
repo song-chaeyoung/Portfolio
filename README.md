@@ -50,8 +50,8 @@
 > - Skill : 반응형 디자인, 사용자 피드백을 반영한 UI 개선, Vanilla JS로 동적 웹 페이지 구현
 >  <br/>
 >
-> <a href="" target="_blank" >홈페이지</a>  
-><a href="https://oliveyoung-yesshow.web.app/" target="_blank">깃허브</a> <br/>
+> <a href="https://oliveyoung-yesshow.web.app/" target="_blank" >홈페이지</a>  
+><a href="https://github.com/song-chaeyoung/Oliveyoung-clone" target="_blank">깃허브</a> <br/>
 >
 > 기획단계 <br/>
 > <a href="" target="_blank">Lo-fi</a> 
@@ -91,8 +91,7 @@
 > <a href="https://github.com/song-chaeyoung/FrontEnd-Class/tree/main/firstproject_final" target="_blank">깃허브</a> <br/>
 >
 > 기획단계 <br/>
-> <a href="" target="_blank">Lo-fi</a> 
-> <a href="" target="_blank">Hi-fi</a> 
+> <a href="https://www.figma.com/design/sDJbly82Sl5cKQaSLnAYXG/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C-%ED%8F%AC%ED%8A%B8%ED%8F%AC%EB%A6%AC%EC%98%A4?node-id=3-2&m=dev&t=dNmGj9IOPlP5I19z-1">Figma</a> 
 >
 >
 > <br/>
