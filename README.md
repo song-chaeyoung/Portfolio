@@ -50,14 +50,11 @@
 > - Skill : 반응형 디자인, 사용자 피드백을 반영한 UI 개선, Vanilla JS로 동적 웹 페이지 구현
 >  <br/>
 >
-> <a href="https://oliveyoung-yesshow.web.app/" target="_blank" >홈페이지</a>  
-><a href="https://github.com/song-chaeyoung/Oliveyoung-clone" target="_blank">깃허브</a> <br/>
+> <a href="https://oliveyoung-yesshow.web.app/" >홈페이지</a>  
+><a href="https://github.com/song-chaeyoung/Oliveyoung-clone" >깃허브</a> <br/>
 >
 > 기획단계 <br/>
-> <a href="" target="_blank">Lo-fi</a> 
-> <a href="" target="_blank">Hi-fi</a> 
-> <a href="" target="_blank">기획서</a>
->
+> <a href="https://www.figma.com/design/6tyZLvX74zMtxSOxCz46lz/Oliveyoung-Clone?node-id=0-1&m=dev&t=AqpHDX0jEIgLawm0-1" >Figam</a> 
 <br/>
 
 ## 2. Todo List (Personal Project)
