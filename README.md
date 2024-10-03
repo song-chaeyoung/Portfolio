@@ -15,19 +15,19 @@
 
 # 🛠️Skills
 ### Javascript
-- lorem
-- lorem
-- lorem
+- ES6+ 문법을 활용한 모듈화된 코드 작성
+- 비동기 처리(Promises, async/await)를 사용한 데이터 fetch 및 처리
+- DOM 조작 및 이벤트 핸들링을 통한 사용자 인터랙션 구현
 
 ### React
-- lorem
-- lorem
+- React Hooks (useState, useEffect) 활용한 상태 및 생명주기 관리
+- React Rounter Dom을 사용한 페이지 라우팅 관리
 - lorem
 
 ### HTML & CSS
-- lorem
-- lorem
-- lorem
+- Flex와 Grid를 활용한 반응형 레이아웃 구현
+- Sass 및 CSS 모듈화와 변수를 통해 유지보수가 용이한 스타일 작성
+- SEO를 고려한 Semantic Markup 작성
 
 
 <br/>
@@ -43,11 +43,11 @@
 >  
 > 올리브영 웹사이트 UI/UX 개선 기획 및 실제 웹페이지 구현 
 > - 개발기간 : 2024.07.00 ~ 2024.09.06
-> - 역할 : 프로젝트 PM, 전체적인 일정관리
+> - 역할 : 프로젝트 PM, 전체적인 일정관리, 메인 페이지 구현, 데이터를 활용한 장바구니 및 결제 페이지 구현, Common(Header,Sidebar etc...) 요소 구현
 >
 > Front-End (Develop)
 > - Language : Javascirpt, HTML, CSS
-> - Skill : 
+> - Skill : 반응형 디자인, 사용자 피드백을 반영한 UI 개선, Vanilla JS로 동적 웹 페이지 구현
 >  <br/>
 >
 > <a href="">홈페이지</a> <br/>
@@ -61,29 +61,30 @@
 <br/>
 
 ## 2. Todo List (Personal Project)
-> 로컬스토리지 및 
+>
+> 로컬스토리지을 활용한 Todo List 구현
 > - 개발기간 : 2024.09.17 ~ 2024.10.01
-> - 역할 : 
+> - 역할 : 프론트엔드 개발 및 UI 디자인
 >
 > Front-End (Develop)
 > - Language : React, JSX
-> - Skill : 
+> - Skill : 상태 관리, 로컬 스토리지 사용, 컴포넌트 재사용성 극대화
 >  <br/>
 >
 > <a href="https://mbtitest-cy.web.app/">홈페이지</a> <br/>
-> <a href="">깃허브</a> <br/>
+> <a href="https://github.com/song-chaeyoung/FrontEnd-Class/tree/main/custom%20project/08.todolist">깃허브</a> <br/>
 >
 >
 > <br/>
 
 ## 3. Introduce Page (Personal Project)
-> 로컬스토리지 및 
-> - 개발기간 : 2024.09.00 ~ 2024.09.00
-> - 역할 : 
+> 
+> - 개발기간 : 2024.06.21 ~ 2024.07.12
+> - 역할 : 프론트엔드 개발, 사이트 전반적인 UI/UX 설계 및 구현
 >
 > Front-End (Develop)
 > - Language : Javascirpt, HTML, CSS
-> - Skill : 
+> - Skill : 바닐라 자바스크립트로 모달 구현
 >  <br/>
 >
 > <a href="https://i-am-young.web.app/">홈페이지</a> <br/>
